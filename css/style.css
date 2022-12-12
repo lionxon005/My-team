@@ -209,12 +209,12 @@ body {
 
 @media only screen and (max-width:915px) {
     .hero-section {
-        background-image: url("../images/herosectionimg.png"), url("../images/herosectionimg2.svg");
+        background-image: url("../images/herosectionimg.png"), url("../images/herosectiimg205.png");
         background-repeat: no-repeat;
-        background-size: 200px 200px, 358px 200px;
+        background-size: 200px 200px, 358px 100px;
         background-position-x: calc(50% - 758px), center ;
         background-position-y: calc(50% - 125px), bottom ;
-        padding-bottom: 256px;
+        padding-bottom: 156px;
     }
 
     .hero-section__wrapper {
@@ -248,12 +248,12 @@ body {
 }
 @media only screen and (max-width:542px) {
     .hero-section {
-        background-image: url("../images/herosectionimg.png"), url("../images/herosectionimg2.svg");
+        background-image: url("../images/herosectionimg.png"), url("../images/herosectiimg205.png");
         background-repeat: no-repeat;
-        background-size: 200px 200px, 358px 200px;
+        background-size: 200px 200px, 358px 100px;
         background-position-x: calc(50% - 758px), center ;
         background-position-y: calc(50% - 125px), bottom ;
-        padding-bottom: 197px;
+        padding-bottom: 97px;
     }
 
     .hero-section__wrapper {
